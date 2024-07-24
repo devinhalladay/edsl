@@ -63,6 +63,7 @@ extensions = [
     "nbsphinx",
     "sphinx_fontawesome",
     "myst_parser",
+    "sphinx_simplepdf"
 ]
 nbsphinx_notebooks = ["../examples/*.ipynb"]
 nbsphinx_notebooks = glob.glob("notebooks/*.ipynb")
